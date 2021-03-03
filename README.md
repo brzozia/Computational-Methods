@@ -1,4 +1,4 @@
-# MOwNiT
+# Computational Methods
 Tasks from "Computational Methods in Science and Technology" course at AGH University.
 Written in Python.
   
